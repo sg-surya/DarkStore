@@ -1,0 +1,6 @@
+{
+  "name": "Dark Store",
+  "description": "A minimal, precision dark-themed digital store for gaming vouchers, gift cards, and direct game top-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
